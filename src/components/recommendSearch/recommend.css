@@ -1,0 +1,15 @@
+.recommend{
+    height: 100vh;
+    background-color: grey;
+    display: flex;
+    justify-content: center; /*horizontal*/
+    align-items: center; /*vertical*/
+}
+
+.c-row{
+    display: flex;
+}
+
+li:hover{
+    background-color: grey;
+}
